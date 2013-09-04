@@ -1,0 +1,752 @@
+SetGVarInt("PI[0][ModelID]",1000,CUSTOM_SPOILER);
+SetGVarString("PI[0][Name]","Pro",CUSTOM_SPOILER);
+SetGVarInt("PI[0][Value]",1000,CUSTOM_SPOILER);
+
+SetGVarInt("PI[1][ModelID]",1001,CUSTOM_SPOILER);
+SetGVarString("PI[1][Name]","Win",CUSTOM_SPOILER);
+SetGVarInt("PI[1][Value]",1000,CUSTOM_SPOILER);
+
+SetGVarInt("PI[2][ModelID]",1002,CUSTOM_SPOILER);
+SetGVarString("PI[2][Name]","Drag",CUSTOM_SPOILER);
+SetGVarInt("PI[2][Value]",1000,CUSTOM_SPOILER);
+
+SetGVarInt("PI[3][ModelID]",1003,CUSTOM_SPOILER);
+SetGVarString("PI[3][Name]","Alpha",CUSTOM_SPOILER);
+SetGVarInt("PI[3][Value]",1000,CUSTOM_SPOILER);
+
+SetGVarInt("PI[4][ModelID]",1014,CUSTOM_SPOILER);
+SetGVarString("PI[4][Name]","Champ",CUSTOM_SPOILER);
+SetGVarInt("PI[4][Value]",1000,CUSTOM_SPOILER);
+
+SetGVarInt("PI[5][ModelID]",1015,CUSTOM_SPOILER);
+SetGVarString("PI[5][Name]","Race",CUSTOM_SPOILER);
+SetGVarInt("PI[5][Value]",1000,CUSTOM_SPOILER);
+
+SetGVarInt("PI[6][ModelID]",1016,CUSTOM_SPOILER);
+SetGVarString("PI[6][Name]","Worx",CUSTOM_SPOILER);
+SetGVarInt("PI[6][Value]",1000,CUSTOM_SPOILER);
+
+SetGVarInt("PI[7][ModelID]",1023,CUSTOM_SPOILER);
+SetGVarString("PI[7][Name]","Fury",CUSTOM_SPOILER);
+SetGVarInt("PI[7][Value]",1000,CUSTOM_SPOILER);
+
+SetGVarInt("PI[8][ModelID]",1049,CUSTOM_SPOILER);
+SetGVarString("PI[8][Name]","Alien (Flash)",CUSTOM_SPOILER);
+SetGVarInt("PI[8][Value]",1000,CUSTOM_SPOILER);
+
+SetGVarInt("PI[9][ModelID]",1050,CUSTOM_SPOILER);
+SetGVarString("PI[9][Name]","X-Flow (Flash)",CUSTOM_SPOILER);
+SetGVarInt("PI[9][Value]",1000,CUSTOM_SPOILER);
+
+SetGVarInt("PI[10][ModelID]",1058,CUSTOM_SPOILER);
+SetGVarString("PI[10][Name]","Alien (Stratum)",CUSTOM_SPOILER);
+SetGVarInt("PI[10][Value]",1000,CUSTOM_SPOILER);
+
+SetGVarInt("PI[11][ModelID]",1060,CUSTOM_SPOILER);
+SetGVarString("PI[11][Name]","X-Flow (Stratum)",CUSTOM_SPOILER);
+SetGVarInt("PI[11][Value]",1000,CUSTOM_SPOILER);
+
+SetGVarInt("PI[12][ModelID]",1138,CUSTOM_SPOILER);
+SetGVarString("PI[12][Name]","Alien (Sultan)",CUSTOM_SPOILER);
+SetGVarInt("PI[12][Value]",1000,CUSTOM_SPOILER);
+
+SetGVarInt("PI[13][ModelID]",1139,CUSTOM_SPOILER);
+SetGVarString("PI[13][Name]","X-Flow (Sultan)",CUSTOM_SPOILER);
+SetGVarInt("PI[13][Value]",1000,CUSTOM_SPOILER);
+
+SetGVarInt("PI[14][ModelID]",1147,CUSTOM_SPOILER);
+SetGVarString("PI[14][Name]","Alien (Elegy)",CUSTOM_SPOILER);
+SetGVarInt("PI[14][Value]",1000,CUSTOM_SPOILER);
+
+SetGVarInt("PI[15][ModelID]",1146,CUSTOM_SPOILER);
+SetGVarString("PI[15][Name]","X-Flow (Elegy)",CUSTOM_SPOILER);
+SetGVarInt("PI[15][Value]",1000,CUSTOM_SPOILER);
+
+SetGVarInt("PI[16][ModelID]",1162,CUSTOM_SPOILER);
+SetGVarString("PI[16][Name]","Alien (Jester)",CUSTOM_SPOILER);
+SetGVarInt("PI[16][Value]",1000,CUSTOM_SPOILER);
+
+SetGVarInt("PI[17][ModelID]",1158,CUSTOM_SPOILER);
+SetGVarString("PI[17][Name]","X-Flow (Jester)",CUSTOM_SPOILER);
+SetGVarInt("PI[17][Value]",1000,CUSTOM_SPOILER);
+
+SetGVarInt("PI[18][ModelID]",1164,CUSTOM_SPOILER);
+SetGVarString("PI[18][Name]","Alien (Uranus)",CUSTOM_SPOILER);
+SetGVarInt("PI[18][Value]",1000,CUSTOM_SPOILER);
+
+SetGVarInt("PI[19][ModelID]",1163,CUSTOM_SPOILER);
+SetGVarString("PI[19][Name]","X-Flow (Uranus)",CUSTOM_SPOILER);
+SetGVarInt("PI[19][Value]",1000,CUSTOM_SPOILER);
+// 
+SetGVarInt("PI[0][ModelID]",1004,CUSTOM_HOOD);
+SetGVarString("PI[0][Name]","Champ",CUSTOM_HOOD);
+SetGVarInt("PI[0][Value]",1000,CUSTOM_HOOD);
+
+SetGVarInt("PI[1][ModelID]",1005,CUSTOM_HOOD);
+SetGVarString("PI[1][Name]","Fury",CUSTOM_HOOD);
+SetGVarInt("PI[1][Value]",1000,CUSTOM_HOOD);
+
+SetGVarInt("PI[2][ModelID]",1011,CUSTOM_HOOD);
+SetGVarString("PI[2][Name]","Race",CUSTOM_HOOD);
+SetGVarInt("PI[2][Value]",1000,CUSTOM_HOOD);
+
+SetGVarInt("PI[3][ModelID]",1012,CUSTOM_HOOD);
+SetGVarString("PI[3][Name]","Worx",CUSTOM_HOOD);
+SetGVarInt("PI[3][Value]",1000,CUSTOM_HOOD);
+// 
+SetGVarInt("PI[0][ModelID]",1025,CUSTOM_WHEEL);
+SetGVarString("PI[0][Name]","Offroad",CUSTOM_WHEEL);
+SetGVarInt("PI[0][Value]",1000,CUSTOM_WHEEL);
+
+SetGVarInt("PI[1][ModelID]",1073,CUSTOM_WHEEL);
+SetGVarString("PI[1][Name]","Shadow",CUSTOM_WHEEL);
+SetGVarInt("PI[1][Value]",1000,CUSTOM_WHEEL);
+
+SetGVarInt("PI[2][ModelID]",1074,CUSTOM_WHEEL);
+SetGVarString("PI[2][Name]","Mega",CUSTOM_WHEEL);
+SetGVarInt("PI[2][Value]",1000,CUSTOM_WHEEL);
+
+SetGVarInt("PI[3][ModelID]",1075,CUSTOM_WHEEL);
+SetGVarString("PI[3][Name]","Rimshine",CUSTOM_WHEEL);
+SetGVarInt("PI[3][Value]",1000,CUSTOM_WHEEL);
+
+SetGVarInt("PI[4][ModelID]",1076,CUSTOM_WHEEL);
+SetGVarString("PI[4][Name]","Wires",CUSTOM_WHEEL);
+SetGVarInt("PI[4][Value]",1000,CUSTOM_WHEEL);
+
+SetGVarInt("PI[5][ModelID]",1077,CUSTOM_WHEEL);
+SetGVarString("PI[5][Name]","Classic",CUSTOM_WHEEL);
+SetGVarInt("PI[5][Value]",1000,CUSTOM_WHEEL);
+
+SetGVarInt("PI[6][ModelID]",1078,CUSTOM_WHEEL);
+SetGVarString("PI[6][Name]","Twist",CUSTOM_WHEEL);
+SetGVarInt("PI[6][Value]",1000,CUSTOM_WHEEL);
+
+SetGVarInt("PI[7][ModelID]",1079,CUSTOM_WHEEL);
+SetGVarString("PI[7][Name]","Cutter",CUSTOM_WHEEL);
+SetGVarInt("PI[7][Value]",1000,CUSTOM_WHEEL);
+
+SetGVarInt("PI[8][ModelID]",1080,CUSTOM_WHEEL);
+SetGVarString("PI[8][Name]","Switch",CUSTOM_WHEEL);
+SetGVarInt("PI[8][Value]",1000,CUSTOM_WHEEL);
+
+SetGVarInt("PI[9][ModelID]",1081,CUSTOM_WHEEL);
+SetGVarString("PI[9][Name]","Grove",CUSTOM_WHEEL);
+SetGVarInt("PI[9][Value]",1000,CUSTOM_WHEEL);
+
+SetGVarInt("PI[10][ModelID]",1082,CUSTOM_WHEEL);
+SetGVarString("PI[10][Name]","Import",CUSTOM_WHEEL);
+SetGVarInt("PI[10][Value]",1000,CUSTOM_WHEEL);
+
+SetGVarInt("PI[11][ModelID]",1083,CUSTOM_WHEEL);
+SetGVarString("PI[11][Name]","Dollar",CUSTOM_WHEEL);
+SetGVarInt("PI[11][Value]",1000,CUSTOM_WHEEL);
+
+SetGVarInt("PI[12][ModelID]",1084,CUSTOM_WHEEL);
+SetGVarString("PI[12][Name]","Trance",CUSTOM_WHEEL);
+SetGVarInt("PI[12][Value]",1000,CUSTOM_WHEEL);
+
+SetGVarInt("PI[13][ModelID]",1085,CUSTOM_WHEEL);
+SetGVarString("PI[13][Name]","Atomic",CUSTOM_WHEEL);
+SetGVarInt("PI[13][Value]",1000,CUSTOM_WHEEL);
+
+SetGVarInt("PI[14][ModelID]",1096,CUSTOM_WHEEL);
+SetGVarString("PI[14][Name]","Ahab",CUSTOM_WHEEL);
+SetGVarInt("PI[14][Value]",1000,CUSTOM_WHEEL);
+
+SetGVarInt("PI[15][ModelID]",1097,CUSTOM_WHEEL);
+SetGVarString("PI[15][Name]","Virtual",CUSTOM_WHEEL);
+SetGVarInt("PI[15][Value]",1000,CUSTOM_WHEEL);
+
+SetGVarInt("PI[16][ModelID]",1098,CUSTOM_WHEEL);
+SetGVarString("PI[16][Name]","Access",CUSTOM_WHEEL);
+SetGVarInt("PI[16][Value]",1000,CUSTOM_WHEEL);
+// 
+SetGVarInt("PI[0][ModelID]",18647,CUSTOM_NEON);
+SetGVarString("PI[0][Name]","Red",CUSTOM_NEON);
+SetGVarInt("PI[0][Value]",1000,CUSTOM_NEON);
+
+SetGVarInt("PI[1][ModelID]",18648,CUSTOM_NEON);
+SetGVarString("PI[1][Name]","Blue",CUSTOM_NEON);
+SetGVarInt("PI[1][Value]",1000,CUSTOM_NEON);
+
+SetGVarInt("PI[2][ModelID]",18649,CUSTOM_NEON);
+SetGVarString("PI[2][Name]","Green",CUSTOM_NEON);
+SetGVarInt("PI[2][Value]",1000,CUSTOM_NEON);
+
+SetGVarInt("PI[3][ModelID]",18650,CUSTOM_NEON);
+SetGVarString("PI[3][Name]","Yellow",CUSTOM_NEON);
+SetGVarInt("PI[3][Value]",1000,CUSTOM_NEON);
+
+SetGVarInt("PI[4][ModelID]",18651,CUSTOM_NEON);
+SetGVarString("PI[4][Name]","Pink",CUSTOM_NEON);
+SetGVarInt("PI[4][Value]",1000,CUSTOM_NEON);
+
+SetGVarInt("PI[5][ModelID]",18652,CUSTOM_NEON);
+SetGVarString("PI[5][Name]","White",CUSTOM_NEON);
+SetGVarInt("PI[5][Value]",1000,CUSTOM_NEON);
+// 
+SetGVarString("PI[0][Name]","ND4SPD",CUSTOM_PLATE);
+SetGVarInt("PI[0][Value]",0,CUSTOM_PLATE);
+
+SetGVarString("PI[1][Name]","NGLAND",CUSTOM_PLATE);
+SetGVarInt("PI[1][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[2][Name]","PROSTREET",CUSTOM_PLATE);
+SetGVarInt("PI[2][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[3][Name]","PLANET",CUSTOM_PLATE);
+SetGVarInt("PI[3][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[4][Name]","POLSKA",CUSTOM_PLATE);
+SetGVarInt("PI[4][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[5][Name]","RACEME",CUSTOM_PLATE);
+SetGVarInt("PI[5][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[6][Name]","RUSSIA",CUSTOM_PLATE);
+SetGVarInt("PI[6][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[7][Name]","SMOKED",CUSTOM_PLATE);
+SetGVarInt("PI[7][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[8][Name]","STOL3N",CUSTOM_PLATE);
+SetGVarInt("PI[8][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[9][Name]","UGRND1",CUSTOM_PLATE);
+SetGVarInt("PI[9][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[10][Name]","UGRND2",CUSTOM_PLATE);
+SetGVarInt("PI[10][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[11][Name]","UNLMTD",CUSTOM_PLATE);
+SetGVarInt("PI[11][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[12][Name]","WRAITH",CUSTOM_PLATE);
+SetGVarInt("PI[12][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[13][Name]","BIGLOU",CUSTOM_PLATE);
+SetGVarInt("PI[13][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[14][Name]","CANADA",CUSTOM_PLATE);
+SetGVarInt("PI[14][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[15][Name]","CARBON",CUSTOM_PLATE);
+SetGVarInt("PI[15][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[16][Name]","COOPER",CUSTOM_PLATE);
+SetGVarInt("PI[16][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[17][Name]","FRANCE",CUSTOM_PLATE);
+SetGVarInt("PI[17][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[18][Name]","GODSPD",CUSTOM_PLATE);
+SetGVarInt("PI[18][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[19][Name]","IAMGR8",CUSTOM_PLATE);
+SetGVarInt("PI[19][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[20][Name]","IBEATU",CUSTOM_PLATE);
+SetGVarInt("PI[20][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[21][Name]","HOTPURSUIT",CUSTOM_PLATE);
+SetGVarInt("PI[21][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[22][Name]","IPWNDU",CUSTOM_PLATE);
+SetGVarInt("PI[22][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[23][Name]","ITALIA",CUSTOM_PLATE);
+SetGVarInt("PI[23][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[24][Name]","JEWELS",CUSTOM_PLATE);
+SetGVarInt("PI[24][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[25][Name]","KLUTCH",CUSTOM_PLATE);
+SetGVarInt("PI[25][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[26][Name]","MCLARENF1",CUSTOM_PLATE);
+SetGVarInt("PI[26][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[27][Name]","MONARO",CUSTOM_PLATE);
+SetGVarInt("PI[27][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[28][Name]","IS300",CUSTOM_PLATE);
+SetGVarInt("PI[28][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[29][Name]","ZONDA",CUSTOM_PLATE);
+SetGVarInt("PI[29][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[30][Name]","JAGUARXK",CUSTOM_PLATE);
+SetGVarInt("PI[30][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[31][Name]","TRAFGARB",CUSTOM_PLATE);
+SetGVarInt("PI[31][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[32][Name]","TRAFFIRE",CUSTOM_PLATE);
+SetGVarInt("PI[32][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[33][Name]","TRAFHA",CUSTOM_PLATE);
+SetGVarInt("PI[33][Value]",10000,CUSTOM_PLATE);
+
+SetGVarString("PI[34][Name]","NFSDEV",CUSTOM_PLATE);
+//SetGVarInt("PI[34][Value]",-1,CUSTOM_PLATE);
+// 
+SetGVarInt("PI[0][ModelID]",1006,CUSTOM_INTAKE);
+SetGVarString("PI[0][Name]","Standart",CUSTOM_INTAKE);
+SetGVarInt("PI[0][Value]",1000,CUSTOM_INTAKE);
+
+SetGVarInt("PI[1][ModelID]",1032,CUSTOM_INTAKE);
+SetGVarString("PI[1][Name]","Alien (Sultan)",CUSTOM_INTAKE);
+SetGVarInt("PI[1][Value]",1000,CUSTOM_INTAKE);
+
+SetGVarInt("PI[2][ModelID]",1033,CUSTOM_INTAKE);
+SetGVarString("PI[2][Name]","X-Flow (Sultan)",CUSTOM_INTAKE);
+SetGVarInt("PI[2][Value]",1000,CUSTOM_INTAKE);
+
+SetGVarInt("PI[3][ModelID]",1038,CUSTOM_INTAKE);
+SetGVarString("PI[3][Name]","Alien (Elegy)",CUSTOM_INTAKE);
+SetGVarInt("PI[3][Value]",1000,CUSTOM_INTAKE);
+
+SetGVarInt("PI[4][ModelID]",1035,CUSTOM_INTAKE);
+SetGVarString("PI[4][Name]","X-Flow (Elegy)",CUSTOM_INTAKE);
+SetGVarInt("PI[4][Value]",1000,CUSTOM_INTAKE);
+
+SetGVarInt("PI[5][ModelID]",1054,CUSTOM_INTAKE);
+SetGVarString("PI[5][Name]","Alien (Flash)",CUSTOM_INTAKE);
+SetGVarInt("PI[5][Value]",1000,CUSTOM_INTAKE);
+
+SetGVarInt("PI[6][ModelID]",1053,CUSTOM_INTAKE);
+SetGVarString("PI[6][Name]","X-Flow (Flash)",CUSTOM_INTAKE);
+SetGVarInt("PI[6][Value]",1000,CUSTOM_INTAKE);
+
+SetGVarInt("PI[7][ModelID]",1055,CUSTOM_INTAKE);
+SetGVarString("PI[7][Name]","Alien (Stratum)",CUSTOM_INTAKE);
+SetGVarInt("PI[7][Value]",1000,CUSTOM_INTAKE);
+
+SetGVarInt("PI[8][ModelID]",1061,CUSTOM_INTAKE);
+SetGVarString("PI[8][Name]","X-Flow (Stratum)",CUSTOM_INTAKE);
+SetGVarInt("PI[8][Value]",1000,CUSTOM_INTAKE);
+
+SetGVarInt("PI[9][ModelID]",1067,CUSTOM_INTAKE);
+SetGVarString("PI[9][Name]","Alien (Jester)",CUSTOM_INTAKE);
+SetGVarInt("PI[9][Value]",1000,CUSTOM_INTAKE);
+
+SetGVarInt("PI[10][ModelID]",1068,CUSTOM_INTAKE);
+SetGVarString("PI[10][Name]","X-Flow (Jester)",CUSTOM_INTAKE);
+SetGVarInt("PI[10][Value]",1000,CUSTOM_INTAKE);
+
+SetGVarInt("PI[11][ModelID]",1088,CUSTOM_INTAKE);
+SetGVarString("PI[11][Name]","Alien (Uranus)",CUSTOM_INTAKE);
+SetGVarInt("PI[11][Value]",1000,CUSTOM_INTAKE);
+
+SetGVarInt("PI[12][ModelID]",1091,CUSTOM_INTAKE);
+SetGVarString("PI[12][Name]","X-Flow (Uranus)",CUSTOM_INTAKE);
+SetGVarInt("PI[12][Value]",1000,CUSTOM_INTAKE);
+// 
+SetGVarInt("PI[0][ModelID]",1103,CUSTOM_ROOF);
+SetGVarString("PI[0][Name]","Convertible (Blade)",CUSTOM_ROOF);
+SetGVarInt("PI[0][Value]",1000,CUSTOM_ROOF);
+
+SetGVarInt("PI[1][ModelID]",1128,CUSTOM_ROOF);
+SetGVarString("PI[1][Name]","Vinyl Hardtop (Blade)",CUSTOM_ROOF);
+SetGVarInt("PI[1][Value]",1000,CUSTOM_ROOF);
+
+SetGVarInt("PI[2][ModelID]",1130,CUSTOM_ROOF);
+SetGVarString("PI[2][Name]","Hardtop (Savanna)",CUSTOM_ROOF);
+SetGVarInt("PI[2][Value]",1000,CUSTOM_ROOF);
+
+SetGVarInt("PI[3][ModelID]",1131,CUSTOM_ROOF);
+SetGVarString("PI[3][Name]","Softtop (Savanna)",CUSTOM_ROOF);
+SetGVarInt("PI[3][Value]",1000,CUSTOM_ROOF);
+// 
+SetGVarInt("PI[0][ModelID]",1007,CUSTOM_SIDESKIRT);
+SetGVarString("PI[0][Name]","Standart",CUSTOM_SIDESKIRT);
+SetGVarInt("PI[0][Value]",1000,CUSTOM_SIDESKIRT);
+
+SetGVarInt("PI[1][ModelID]",1026,CUSTOM_SIDESKIRT);
+SetGVarString("PI[1][Name]","Alien (Sultan)",CUSTOM_SIDESKIRT);
+SetGVarInt("PI[1][Value]",1000,CUSTOM_SIDESKIRT);
+
+SetGVarInt("PI[2][ModelID]",1031,CUSTOM_SIDESKIRT);
+SetGVarString("PI[2][Name]","X-Flow (Sultan)",CUSTOM_SIDESKIRT);
+SetGVarInt("PI[2][Value]",1000,CUSTOM_SIDESKIRT);
+
+SetGVarInt("PI[3][ModelID]",1036,CUSTOM_SIDESKIRT);
+SetGVarString("PI[3][Name]","Alien (Elegy)",CUSTOM_SIDESKIRT);
+SetGVarInt("PI[3][Value]",1000,CUSTOM_SIDESKIRT);
+
+SetGVarInt("PI[4][ModelID]",1041,CUSTOM_SIDESKIRT);
+SetGVarString("PI[4][Name]","X-Flow (Elegy)",CUSTOM_SIDESKIRT);
+SetGVarInt("PI[4][Value]",1000,CUSTOM_SIDESKIRT);
+
+SetGVarInt("PI[5][ModelID]",1047,CUSTOM_SIDESKIRT);
+SetGVarString("PI[5][Name]","Alien (Flash)",CUSTOM_SIDESKIRT);
+SetGVarInt("PI[5][Value]",1000,CUSTOM_SIDESKIRT);
+
+SetGVarInt("PI[6][ModelID]",1048,CUSTOM_SIDESKIRT);
+SetGVarString("PI[6][Name]","X-Flow (Flash)",CUSTOM_SIDESKIRT);
+SetGVarInt("PI[6][Value]",1000,CUSTOM_SIDESKIRT);
+
+SetGVarInt("PI[7][ModelID]",1056,CUSTOM_SIDESKIRT);
+SetGVarString("PI[7][Name]","Alien (Stratum)",CUSTOM_SIDESKIRT);
+SetGVarInt("PI[7][Value]",1000,CUSTOM_SIDESKIRT);
+
+SetGVarInt("PI[8][ModelID]",1057,CUSTOM_SIDESKIRT);
+SetGVarString("PI[8][Name]","X-Flow (Stratum)",CUSTOM_SIDESKIRT);
+SetGVarInt("PI[8][Value]",1000,CUSTOM_SIDESKIRT);
+
+SetGVarInt("PI[9][ModelID]",1069,CUSTOM_SIDESKIRT);
+SetGVarString("PI[9][Name]","Alien (Jester)",CUSTOM_SIDESKIRT);
+SetGVarInt("PI[9][Value]",1000,CUSTOM_SIDESKIRT);
+
+SetGVarInt("PI[10][ModelID]",1070,CUSTOM_SIDESKIRT);
+SetGVarString("PI[10][Name]","X-Flow (Jester)",CUSTOM_SIDESKIRT);
+SetGVarInt("PI[10][Value]",1000,CUSTOM_SIDESKIRT);
+
+SetGVarInt("PI[11][ModelID]",1090,CUSTOM_SIDESKIRT);
+SetGVarString("PI[11][Name]","Alien (Uranus)",CUSTOM_SIDESKIRT);
+SetGVarInt("PI[11][Value]",1000,CUSTOM_SIDESKIRT);
+
+SetGVarInt("PI[12][ModelID]",1095,CUSTOM_SIDESKIRT);
+SetGVarString("PI[12][Name]","X-Flow (Uranus)",CUSTOM_SIDESKIRT);
+SetGVarInt("PI[12][Value]",1000,CUSTOM_SIDESKIRT);
+
+SetGVarInt("PI[13][ModelID]",1042,CUSTOM_SIDESKIRT);
+SetGVarString("PI[13][Name]","Chrome (Broadway)",CUSTOM_SIDESKIRT);
+SetGVarInt("PI[13][Value]",1000,CUSTOM_SIDESKIRT);
+
+SetGVarInt("PI[14][ModelID]",1122,CUSTOM_SIDESKIRT);
+SetGVarString("PI[14][Name]","Chrome Flames (Remington)",CUSTOM_SIDESKIRT);
+SetGVarInt("PI[14][Value]",1000,CUSTOM_SIDESKIRT);
+
+SetGVarInt("PI[15][ModelID]",1124,CUSTOM_SIDESKIRT);
+SetGVarString("PI[15][Name]","Chrome Arches (Remington)",CUSTOM_SIDESKIRT);
+SetGVarInt("PI[15][Value]",1000,CUSTOM_SIDESKIRT);
+
+SetGVarInt("PI[16][ModelID]",1102,CUSTOM_SIDESKIRT);
+SetGVarString("PI[16][Name]","Chrome Strip (Savanna)",CUSTOM_SIDESKIRT);
+SetGVarInt("PI[16][Value]",1000,CUSTOM_SIDESKIRT);
+
+SetGVarInt("PI[17][ModelID]",1108,CUSTOM_SIDESKIRT);
+SetGVarString("PI[17][Name]","Chrome Strip (Blade)",CUSTOM_SIDESKIRT);
+SetGVarInt("PI[17][Value]",1000,CUSTOM_SIDESKIRT);
+
+SetGVarInt("PI[18][ModelID]",1118,CUSTOM_SIDESKIRT);
+SetGVarString("PI[18][Name]","Chrome Trim (Slamvan)",CUSTOM_SIDESKIRT);
+SetGVarInt("PI[18][Value]",1000,CUSTOM_SIDESKIRT);
+
+SetGVarInt("PI[19][ModelID]",1119,CUSTOM_SIDESKIRT);
+SetGVarString("PI[19][Name]","Wheelcovers (Slamvan)",CUSTOM_SIDESKIRT);
+SetGVarInt("PI[19][Value]",1000,CUSTOM_SIDESKIRT);
+// 
+SetGVarInt("PI[0][ModelID]",1018,CUSTOM_EXHAUST);
+SetGVarString("PI[0][Name]","Upswept",CUSTOM_EXHAUST);
+SetGVarInt("PI[0][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[1][ModelID]",1019,CUSTOM_EXHAUST);
+SetGVarString("PI[1][Name]","Twin",CUSTOM_EXHAUST);
+SetGVarInt("PI[1][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[2][ModelID]",1020,CUSTOM_EXHAUST);
+SetGVarString("PI[2][Name]","Large",CUSTOM_EXHAUST);
+SetGVarInt("PI[2][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[3][ModelID]",1021,CUSTOM_EXHAUST);
+SetGVarString("PI[3][Name]","Medium",CUSTOM_EXHAUST);
+SetGVarInt("PI[3][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[4][ModelID]",1022,CUSTOM_EXHAUST);
+SetGVarString("PI[4][Name]","Small",CUSTOM_EXHAUST);
+SetGVarInt("PI[4][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[5][ModelID]",1028,CUSTOM_EXHAUST);
+SetGVarString("PI[5][Name]","Alien (Sultan)",CUSTOM_EXHAUST);
+SetGVarInt("PI[5][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[6][ModelID]",1029,CUSTOM_EXHAUST);
+SetGVarString("PI[6][Name]","X-Flow (Sultan)",CUSTOM_EXHAUST);
+SetGVarInt("PI[6][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[7][ModelID]",1034,CUSTOM_EXHAUST);
+SetGVarString("PI[7][Name]","Alien (Elegy)",CUSTOM_EXHAUST);
+SetGVarInt("PI[7][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[8][ModelID]",1037,CUSTOM_EXHAUST);
+SetGVarString("PI[8][Name]","X-Flow (Elegy)",CUSTOM_EXHAUST);
+SetGVarInt("PI[8][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[9][ModelID]",1046,CUSTOM_EXHAUST);
+SetGVarString("PI[9][Name]","Alien (Flash)",CUSTOM_EXHAUST);
+SetGVarInt("PI[9][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[10][ModelID]",1045,CUSTOM_EXHAUST);
+SetGVarString("PI[10][Name]","X-Flow (Flash)",CUSTOM_EXHAUST);
+SetGVarInt("PI[10][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[11][ModelID]",1064,CUSTOM_EXHAUST);
+SetGVarString("PI[11][Name]","Alien (Stratum)",CUSTOM_EXHAUST);
+SetGVarInt("PI[11][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[12][ModelID]",1059,CUSTOM_EXHAUST);
+SetGVarString("PI[12][Name]","X-Flow (Stratum)",CUSTOM_EXHAUST);
+SetGVarInt("PI[12][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[13][ModelID]",1065,CUSTOM_EXHAUST);
+SetGVarString("PI[13][Name]","Alien (Jester)",CUSTOM_EXHAUST);
+SetGVarInt("PI[13][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[14][ModelID]",1066,CUSTOM_EXHAUST);
+SetGVarString("PI[14][Name]","X-Flow (Jester)",CUSTOM_EXHAUST);
+SetGVarInt("PI[14][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[15][ModelID]",1092,CUSTOM_EXHAUST);
+SetGVarString("PI[15][Name]","Alien (Uranus)",CUSTOM_EXHAUST);
+SetGVarInt("PI[15][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[16][ModelID]",1089,CUSTOM_EXHAUST);
+SetGVarString("PI[16][Name]","X-Flow (Uranus)",CUSTOM_EXHAUST);
+SetGVarInt("PI[16][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[17][ModelID]",1043,CUSTOM_EXHAUST);
+SetGVarString("PI[17][Name]","Slamin (Broadway)",CUSTOM_EXHAUST);
+SetGVarInt("PI[17][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[18][ModelID]",1044,CUSTOM_EXHAUST);
+SetGVarString("PI[18][Name]","Chrome (Broadway)",CUSTOM_EXHAUST);
+SetGVarInt("PI[18][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[19][ModelID]",1105,CUSTOM_EXHAUST);
+SetGVarString("PI[19][Name]","Slamin (Blade)",CUSTOM_EXHAUST);
+SetGVarInt("PI[19][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[20][ModelID]",1104,CUSTOM_EXHAUST);
+SetGVarString("PI[20][Name]","Chrome (Blade)",CUSTOM_EXHAUST);
+SetGVarInt("PI[20][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[21][ModelID]",1114,CUSTOM_EXHAUST);
+SetGVarString("PI[21][Name]","Slamin (Slamvan)",CUSTOM_EXHAUST);
+SetGVarInt("PI[21][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[22][ModelID]",1113,CUSTOM_EXHAUST);
+SetGVarString("PI[22][Name]","Chrome (Slavman)",CUSTOM_EXHAUST);
+SetGVarInt("PI[22][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[23][ModelID]",1127,CUSTOM_EXHAUST);
+SetGVarString("PI[23][Name]","Slamin (Remington)",CUSTOM_EXHAUST);
+SetGVarInt("PI[23][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[24][ModelID]",1126,CUSTOM_EXHAUST);
+SetGVarString("PI[24][Name]","Chrome (Remington)",CUSTOM_EXHAUST);
+SetGVarInt("PI[24][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[25][ModelID]",1132,CUSTOM_EXHAUST);
+SetGVarString("PI[25][Name]","Slamin (Savanna)",CUSTOM_EXHAUST);
+SetGVarInt("PI[25][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[26][ModelID]",1129,CUSTOM_EXHAUST);
+SetGVarString("PI[26][Name]","Chrome (Savanna)",CUSTOM_EXHAUST);
+SetGVarInt("PI[26][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[27][ModelID]",1135,CUSTOM_EXHAUST);
+SetGVarString("PI[27][Name]","Slamin (Tornado)",CUSTOM_EXHAUST);
+SetGVarInt("PI[27][Value]",1000,CUSTOM_EXHAUST);
+
+SetGVarInt("PI[28][ModelID]",1136,CUSTOM_EXHAUST);
+SetGVarString("PI[28][Name]","Chrome (Tornado)",CUSTOM_EXHAUST);
+SetGVarInt("PI[28][Value]",1000,CUSTOM_EXHAUST);
+// 
+SetGVarInt("PI[0][ModelID]",1153,CUSTOM_FBUMPER);
+SetGVarString("PI[0][Name]","Alien (Flash)",CUSTOM_FBUMPER);
+SetGVarInt("PI[0][Value]",1000,CUSTOM_FBUMPER);
+
+SetGVarInt("PI[1][ModelID]",1152,CUSTOM_FBUMPER);
+SetGVarString("PI[1][Name]","X-Flow (Flash)",CUSTOM_FBUMPER);
+SetGVarInt("PI[1][Value]",1000,CUSTOM_FBUMPER);
+
+SetGVarInt("PI[2][ModelID]",1155,CUSTOM_FBUMPER);
+SetGVarString("PI[2][Name]","Alien (Stratum)",CUSTOM_FBUMPER);
+SetGVarInt("PI[2][Value]",1000,CUSTOM_FBUMPER);
+
+SetGVarInt("PI[3][ModelID]",1157,CUSTOM_FBUMPER);
+SetGVarString("PI[3][Name]","X-Flow (Stratum)",CUSTOM_FBUMPER);
+SetGVarInt("PI[3][Value]",1000,CUSTOM_FBUMPER);
+
+SetGVarInt("PI[4][ModelID]",1160,CUSTOM_FBUMPER);
+SetGVarString("PI[4][Name]","Alien (Jester)",CUSTOM_FBUMPER);
+SetGVarInt("PI[4][Value]",1000,CUSTOM_FBUMPER);
+
+SetGVarInt("PI[5][ModelID]",1173,CUSTOM_FBUMPER);
+SetGVarString("PI[5][Name]","X-Flow (Jester)",CUSTOM_FBUMPER);
+SetGVarInt("PI[5][Value]",1000,CUSTOM_FBUMPER);
+
+SetGVarInt("PI[6][ModelID]",1166,CUSTOM_FBUMPER);
+SetGVarString("PI[6][Name]","Alien (Uranus)",CUSTOM_FBUMPER);
+SetGVarInt("PI[6][Value]",1000,CUSTOM_FBUMPER);
+
+SetGVarInt("PI[7][ModelID]",1165,CUSTOM_FBUMPER);
+SetGVarString("PI[7][Name]","X-Flow (Uranus)",CUSTOM_FBUMPER);
+SetGVarInt("PI[7][Value]",1000,CUSTOM_FBUMPER);
+
+SetGVarInt("PI[8][ModelID]",1169,CUSTOM_FBUMPER);
+SetGVarString("PI[8][Name]","Alien (Sultan)",CUSTOM_FBUMPER);
+SetGVarInt("PI[8][Value]",1000,CUSTOM_FBUMPER);
+
+SetGVarInt("PI[9][ModelID]",1170,CUSTOM_FBUMPER);
+SetGVarString("PI[9][Name]","X-Flow (Sultan)",CUSTOM_FBUMPER);
+SetGVarInt("PI[9][Value]",1000,CUSTOM_FBUMPER);
+
+SetGVarInt("PI[10][ModelID]",1171,CUSTOM_FBUMPER);
+SetGVarString("PI[10][Name]","Alien (Elegy)",CUSTOM_FBUMPER);
+SetGVarInt("PI[10][Value]",1000,CUSTOM_FBUMPER);
+
+SetGVarInt("PI[11][ModelID]",1172,CUSTOM_FBUMPER);
+SetGVarString("PI[11][Name]","X-Flow (Elegy)",CUSTOM_FBUMPER);
+SetGVarInt("PI[11][Value]",1000,CUSTOM_FBUMPER);
+
+SetGVarInt("PI[12][ModelID]",1117,CUSTOM_FBUMPER);
+SetGVarString("PI[12][Name]","Chrome (Slamvan)",CUSTOM_FBUMPER);
+SetGVarInt("PI[12][Value]",1000,CUSTOM_FBUMPER);
+
+SetGVarInt("PI[13][ModelID]",1174,CUSTOM_FBUMPER);
+SetGVarString("PI[13][Name]","Chrome (Broadway)",CUSTOM_FBUMPER);
+SetGVarInt("PI[13][Value]",1000,CUSTOM_FBUMPER);
+
+SetGVarInt("PI[14][ModelID]",1175,CUSTOM_FBUMPER);
+SetGVarString("PI[14][Name]","Slamin (Broadway)",CUSTOM_FBUMPER);
+SetGVarInt("PI[14][Value]",1000,CUSTOM_FBUMPER);
+
+SetGVarInt("PI[15][ModelID]",1179,CUSTOM_FBUMPER);
+SetGVarString("PI[15][Name]","Chrome (Remington)",CUSTOM_FBUMPER);
+SetGVarInt("PI[15][Value]",1000,CUSTOM_FBUMPER);
+
+SetGVarInt("PI[16][ModelID]",1185,CUSTOM_FBUMPER);
+SetGVarString("PI[16][Name]","Slamin (Remington)",CUSTOM_FBUMPER);
+SetGVarInt("PI[16][Value]",1000,CUSTOM_FBUMPER);
+
+SetGVarInt("PI[17][ModelID]",1182,CUSTOM_FBUMPER);
+SetGVarString("PI[17][Name]","Chrome (Blade)",CUSTOM_FBUMPER);
+SetGVarInt("PI[17][Value]",1000,CUSTOM_FBUMPER);
+
+SetGVarInt("PI[18][ModelID]",1181,CUSTOM_FBUMPER);
+SetGVarString("PI[18][Name]","Slamin (Blade)",CUSTOM_FBUMPER);
+SetGVarInt("PI[18][Value]",1000,CUSTOM_FBUMPER);
+
+SetGVarInt("PI[19][ModelID]",1189,CUSTOM_FBUMPER);
+SetGVarString("PI[19][Name]","Chrome (Savanna)",CUSTOM_FBUMPER);
+SetGVarInt("PI[19][Value]",1000,CUSTOM_FBUMPER);
+
+SetGVarInt("PI[20][ModelID]",1188,CUSTOM_FBUMPER);
+SetGVarString("PI[20][Name]","Slamin (Savanna)",CUSTOM_FBUMPER);
+SetGVarInt("PI[20][Value]",1000,CUSTOM_FBUMPER);
+
+SetGVarInt("PI[21][ModelID]",1191,CUSTOM_FBUMPER);
+SetGVarString("PI[21][Name]","Chrome (Tornado)",CUSTOM_FBUMPER);
+SetGVarInt("PI[21][Value]",1000,CUSTOM_FBUMPER);
+
+SetGVarInt("PI[22][ModelID]",1190,CUSTOM_FBUMPER);
+SetGVarString("PI[22][Name]","Slamin (Tornado)",CUSTOM_FBUMPER);
+SetGVarInt("PI[22][Value]",1000,CUSTOM_FBUMPER);
+// 
+SetGVarInt("PI[0][ModelID]",1141,CUSTOM_RBUMPER);
+SetGVarString("PI[0][Name]","Alien (Sultan)",CUSTOM_RBUMPER);
+SetGVarInt("PI[0][Value]",1000,CUSTOM_RBUMPER);
+
+SetGVarInt("PI[1][ModelID]",1140,CUSTOM_RBUMPER);
+SetGVarString("PI[1][Name]","X-Flow (Sultan)",CUSTOM_RBUMPER);
+SetGVarInt("PI[1][Value]",1000,CUSTOM_RBUMPER);
+
+SetGVarInt("PI[2][ModelID]",1149,CUSTOM_RBUMPER);
+SetGVarString("PI[2][Name]","Alien (Elegy)",CUSTOM_RBUMPER);
+SetGVarInt("PI[2][Value]",1000,CUSTOM_RBUMPER);
+
+SetGVarInt("PI[3][ModelID]",1148,CUSTOM_RBUMPER);
+SetGVarString("PI[3][Name]","X-Flow (Elegy)",CUSTOM_RBUMPER);
+SetGVarInt("PI[3][Value]",1000,CUSTOM_RBUMPER);
+
+SetGVarInt("PI[4][ModelID]",1150,CUSTOM_RBUMPER);
+SetGVarString("PI[4][Name]","Alien (Flash)",CUSTOM_RBUMPER);
+SetGVarInt("PI[4][Value]",1000,CUSTOM_RBUMPER);
+
+SetGVarInt("PI[5][ModelID]",1151,CUSTOM_RBUMPER);
+SetGVarString("PI[5][Name]","X-Flow (Flash)",CUSTOM_RBUMPER);
+SetGVarInt("PI[5][Value]",1000,CUSTOM_RBUMPER);
+
+SetGVarInt("PI[6][ModelID]",1154,CUSTOM_RBUMPER);
+SetGVarString("PI[6][Name]","Alien (Stratum)",CUSTOM_RBUMPER);
+SetGVarInt("PI[6][Value]",1000,CUSTOM_RBUMPER);
+
+SetGVarInt("PI[7][ModelID]",1156,CUSTOM_RBUMPER);
+SetGVarString("PI[7][Name]","X-Flow (Stratum)",CUSTOM_RBUMPER);
+SetGVarInt("PI[7][Value]",1000,CUSTOM_RBUMPER);
+
+SetGVarInt("PI[8][ModelID]",1159,CUSTOM_RBUMPER);
+SetGVarString("PI[8][Name]","Alien (Jester)",CUSTOM_RBUMPER);
+SetGVarInt("PI[8][Value]",1000,CUSTOM_RBUMPER);
+
+SetGVarInt("PI[9][ModelID]",1161,CUSTOM_RBUMPER);
+SetGVarString("PI[9][Name]","X-Flow (Jester)",CUSTOM_RBUMPER);
+SetGVarInt("PI[9][Value]",1000,CUSTOM_RBUMPER);
+
+SetGVarInt("PI[10][ModelID]",1168,CUSTOM_RBUMPER);
+SetGVarString("PI[10][Name]","Alien (Uranus)",CUSTOM_RBUMPER);
+SetGVarInt("PI[10][Value]",1000,CUSTOM_RBUMPER);
+
+SetGVarInt("PI[11][ModelID]",1167,CUSTOM_RBUMPER);
+SetGVarString("PI[11][Name]","X-Flow (Uranus)",CUSTOM_RBUMPER);
+SetGVarInt("PI[11][Value]",1000,CUSTOM_RBUMPER);
+
+SetGVarInt("PI[12][ModelID]",1176,CUSTOM_RBUMPER);
+SetGVarString("PI[12][Name]","Chrome (Broadway)",CUSTOM_RBUMPER);
+SetGVarInt("PI[12][Value]",1000,CUSTOM_RBUMPER);
+
+SetGVarInt("PI[13][ModelID]",1177,CUSTOM_RBUMPER);
+SetGVarString("PI[13][Name]","Slamin (Broadway)",CUSTOM_RBUMPER);
+SetGVarInt("PI[13][Value]",1000,CUSTOM_RBUMPER);
+
+SetGVarInt("PI[14][ModelID]",1180,CUSTOM_RBUMPER);
+SetGVarString("PI[14][Name]","Chrome (Remington)",CUSTOM_RBUMPER);
+SetGVarInt("PI[14][Value]",1000,CUSTOM_RBUMPER);
+
+SetGVarInt("PI[15][ModelID]",1178,CUSTOM_RBUMPER);
+SetGVarString("PI[15][Name]","Slamin (Remington)",CUSTOM_RBUMPER);
+SetGVarInt("PI[15][Value]",1000,CUSTOM_RBUMPER);
+
+SetGVarInt("PI[16][ModelID]",1184,CUSTOM_RBUMPER);
+SetGVarString("PI[16][Name]","Chrome (Blade)",CUSTOM_RBUMPER);
+SetGVarInt("PI[16][Value]",1000,CUSTOM_RBUMPER);
+
+SetGVarInt("PI[17][ModelID]",1183,CUSTOM_RBUMPER);
+SetGVarString("PI[17][Name]","Slamin (Blade)",CUSTOM_RBUMPER);
+SetGVarInt("PI[17][Value]",1000,CUSTOM_RBUMPER);
+
+SetGVarInt("PI[18][ModelID]",1187,CUSTOM_RBUMPER);
+SetGVarString("PI[18][Name]","Chrome (Savanna)",CUSTOM_RBUMPER);
+SetGVarInt("PI[18][Value]",1000,CUSTOM_RBUMPER);
+
+SetGVarInt("PI[19][ModelID]",1186,CUSTOM_RBUMPER);
+SetGVarString("PI[19][Name]","Slamin (Savanna)",CUSTOM_RBUMPER);
+SetGVarInt("PI[19][Value]",1000,CUSTOM_RBUMPER);
+
+SetGVarInt("PI[20][ModelID]",1192,CUSTOM_RBUMPER);
+SetGVarString("PI[20][Name]","Chrome (Tornado)",CUSTOM_RBUMPER);
+SetGVarInt("PI[20][Value]",1000,CUSTOM_RBUMPER);
+
+SetGVarInt("PI[21][ModelID]",1193,CUSTOM_RBUMPER);
+SetGVarString("PI[21][Name]","Slamin (Tornado)",CUSTOM_RBUMPER);
+SetGVarInt("PI[21][Value]",1000,CUSTOM_RBUMPER);
+// 
+SetGVarInt("PI[0][ModelID]",1143,CUSTOM_VENT);
+SetGVarString("PI[0][Name]","Round Vent",CUSTOM_VENT);
+SetGVarInt("PI[0][Value]",1000,CUSTOM_VENT);
+
+SetGVarInt("PI[1][ModelID]",1145,CUSTOM_VENT);
+SetGVarString("PI[1][Name]","Squard Vent",CUSTOM_VENT);
+SetGVarInt("PI[1][Value]",1000,CUSTOM_VENT);
+// 
+SetGVarInt("PI[0][ModelID]",1013,CUSTOM_LIGHT);
+SetGVarString("PI[0][Name]","Round Lights",CUSTOM_LIGHT);
+SetGVarInt("PI[0][Value]",1000,CUSTOM_LIGHT);
+
+SetGVarInt("PI[1][ModelID]",1024,CUSTOM_LIGHT);
+SetGVarString("PI[1][Name]","Squard Lights",CUSTOM_LIGHT);
+SetGVarInt("PI[1][Value]",1000,CUSTOM_LIGHT);

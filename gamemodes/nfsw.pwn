@@ -2,7 +2,7 @@
 // Unfinished "copy" of NFSW
 // Author: SDraw
 // Original posts only on forum.sa-mp.com and pawno.ru
-// GitHub repository: http://github.com/SDraw/Need-For-Speed-World--SA-MP---Unfinished-
+// GitHub repository: http://github.com/SDraw/samp-gamemode-nfsw
 // You can modify gamemode but without deleting of copyrights. But if you delete it, you're little schooler with tiny brain...and dick...and you have brain cancer...
 // Have fun :3
 #include <a_samp>
@@ -455,8 +455,7 @@ public OnGameModeInit()
 	SetGameModeText("NFS World");
 	ShowNameTags(false);
 	mysql_init();
-	//mysql_connect("127.0.0.1","sdraw","AmzhaEj8qNDx2Qb-","nfsw",MySQL:0,1);
-	mysql_connect("localhost","root","include","nfsw");
+	mysql_connect("localhost","root","password","nfsw");
 	mysql_query("SET NAMES utf8");
 	mysql_query("UPDATE emails SET used=0");
 	Audio_SetPack("nfsw",true,true);
@@ -2074,7 +2073,7 @@ public OnPlayerClickTextDraw(playerid, Text:clickedid)
 		    format(DriverName[playerid][i],32,DriverName[playerid][i+1]);
 		    for(new j = 0; j < PlayerInfo[playerid][pVehiclesNum][i+1]; j++) PlayerInfo[playerid][pVehModel][3*i+j] = PlayerInfo[playerid][pVehModel][3*(i+1)+j];
 		}
-		//Обнуление водителя, оставшегося после смещения значений массивов
+		//пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 		PlayerInfo[playerid][pLevel][PlayerInfo[playerid][pDriversNum]-1] = 1;
 		PlayerInfo[playerid][pExp][PlayerInfo[playerid][pDriversNum]-1] = 0;
 		PlayerInfo[playerid][pActiveVehNum][PlayerInfo[playerid][pDriversNum]-1] = 0;

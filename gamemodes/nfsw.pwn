@@ -1,10 +1,18 @@
-//TGA Nsa Drasena Pultymierya lol
-// Unfinished "copy" of NFSW
-// Author: SDraw
-// Original posts only on forum.sa-mp.com and pawno.ru
-// GitHub repository: http://github.com/SDraw/samp-gamemode-nfsw
-// You can modify gamemode but without deleting of copyrights. But if you delete it, you're little schooler with tiny brain...and dick...and you have brain cancer...
-// Have fun :3
+/*    Copyright (C) 2013  Vyacheslav "SDraw" Alekseev
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
 #include <a_samp>
 #undef MAX_PLAYERS
 #define MAX_PLAYERS (50)

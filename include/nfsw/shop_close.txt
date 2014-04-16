@@ -1,3 +1,18 @@
+/* Copyright (C) 2013 Vyacheslav "SDraw" Alekseev
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program. If not, see <http://www.gnu.org/licenses/>.
+*/
 RemoveBuildingForPlayer(playerid, 5340, 2644.8594, -2039.2344, 14.0391, 300.0);
 RemoveBuildingForPlayer(playerid, 1676, 0.1, 0.1, 0.1, 6000.0);
 RemoveBuildingForPlayer(playerid, 5422, 2071.4766, -1831.4219, 14.5625, 300.0);

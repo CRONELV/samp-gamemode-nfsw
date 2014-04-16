@@ -1,3 +1,18 @@
+/* Copyright (C) 2013 Vyacheslav "SDraw" Alekseev
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program. If not, see <http://www.gnu.org/licenses/>.
+*/
 TextCon[playerid] = CreatePlayerTextDraw(playerid, 324.217254, 184.916671, "Trying to connect~n~AP server");
 PlayerTextDrawLetterSize(playerid, TextCon[playerid], 0.449999, 1.600000);
 PlayerTextDrawTextSize(playerid, TextCon[playerid], -90.893104, 257.833343);

@@ -938,7 +938,7 @@ public OnPlayerDisconnect(playerid,reason)
 			}
 			else
 			{
-				format(str,64,"EI[%][LeavedPlayers]",RaceStartZone[playerid]);
+				format(str,64,"EI[%d][LeavedPlayers]",RaceStartZone[playerid]);
 				if(GetGVarInt(str,JoinedJNum[playerid]) >= drv)
 				{
 				    for(new i = 0; i < drv; i++)

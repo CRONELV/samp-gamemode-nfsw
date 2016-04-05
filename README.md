@@ -17,3 +17,7 @@ Bugs
 ====
 * Wrong gems destroying
 * Random reset of race id and race index for players in race.
+
+Notes
+====
+[THIS CODE IS GARBAGE](https://www.youtube.com/watch?v=8e0NLxQJ55Y)
